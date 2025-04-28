@@ -1,0 +1,14 @@
+{
+  "name": "cross-chain-communication",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "turbo run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "turbo": "^2.4.4"
+  }
+}

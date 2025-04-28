@@ -1,0 +1,9 @@
+[package]
+name = "cross_call"
+edition = "2024.beta"
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "main" }
+
+[addresses]
+cross_call = "0x0"
